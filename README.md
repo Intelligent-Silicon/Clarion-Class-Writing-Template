@@ -21,6 +21,8 @@ A CLASS METHOD can call PROCEDURE's and API's from outside of the CLASS.
 
 # Clarion Class Writing Template
 
+Status: Final Testing.
+
 ## AppGen Procedure Naming Schema
 
 AppGen procedure names are not case sensitive. The Template is not case sensitive.
@@ -105,4 +107,4 @@ The unique "Friendly Name" assigned to each Method Overload with the parameters 
 
 ![AppGen Realtime Spacing](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Realtime-Embed-Source-Spacing.jpg)
 
-The Template lets you control the spacing of all the code output in realtime WYSYG in the Embed Editor View Source and Source output file(s). Make an alignment change here, go to the AppGen method, click Embed, click View Source and see the spacing change straight away!
+The Template lets you control the spacing of all the code output in realtime WYSYG in the Embed Editor View Source and Source output file(s). Make an alignment change here, go to the AppGen procedure method, right mouse click Embed, click View Source and see the alignment changes to get perfectly laid out code!
