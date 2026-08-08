@@ -42,7 +42,7 @@ The AppGen (First) Procedure called ```MAIN``` is to be used as the parent non c
 
 ## Procedure and Method OverLoading
 
-MAIN procedures and Class methods contain the parameter overloading information for building Definitions and Prototypes.
+MAIN procedures and Class methods contain the parameter overloading information for building Definitions and Prototypes. Class Construct and Destruct do not overload.
 
 
 
