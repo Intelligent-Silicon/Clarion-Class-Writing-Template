@@ -23,6 +23,8 @@ A CLASS METHOD can call PROCEDURE's and API's from outside of the CLASS.
 
 Status: Final Testing.
 
+C6 or later.
+
 ## AppGen Procedure Naming Schema
 
 AppGen procedure names are not case sensitive. The Template is not case sensitive.
