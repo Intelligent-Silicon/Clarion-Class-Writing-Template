@@ -37,12 +37,12 @@ AppGen procedure names are not case sensitive. The Template is not case sensitiv
 
 ## Template Rules
 
-The AppGen (First) Procedure called ```MAIN``` is to be used as the parent non class prototype/definition for defining variables outside of a class & non class procedures in the class source files.
+The AppGen (First) Procedure called ```MAIN``` is to be used as the parent non class prototype/definition for defining variables outside of a class & non class procedures to be included in the class source file(s).
 
 
 ## Procedure and Method OverLoading
 
-MAIN procedures and Class methods contain the parameter overloading information for building Definitions and Prototypes. Class Construct and Destruct do not overload.
+MAIN procedures, Class methods and Interface methods contain the parameter overloading information for building Definitions and Prototypes. Class Construct and Destruct do not overload.
 
 
 
