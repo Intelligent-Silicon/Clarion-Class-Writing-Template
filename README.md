@@ -25,7 +25,7 @@ Status: Final Testing.
 
 C6 or later.
 
-Wishlist: Import source files into TXA/TXD format for use in the IDE. 
+Wishlist: Import class source files (```.INT```, ```.INC```, ```.CLW```) into TXA/TXD format for use in the IDE. 
 
 ## AppGen Procedure Naming Schema
 
