@@ -48,7 +48,7 @@ The AppGen (First) Procedure called ```MAIN``` is to be used as the parent non-c
 
 ## Procedure and Method OverLoading
 
-MAIN procedures, Class methods and Interface methods contain the parameter overloading information for building Definitions and Prototypes. Class Construct and Destruct do not overload.
+MAIN procedures, Class methods and Interface methods contain the parameter overloading information for building Definitions and Prototypes. Class Construct and Destruct do not overload (template restriction currently - not tested with compiler).
 
 
 ## Output files
@@ -72,11 +72,11 @@ Class Method definitions are written in the ```.CLW``` file.
 
 ## Data (Variables and Properties )
 
-Dictionary (Dct) file prefixes can be optionally removed from all Dct variables during the final source code generation output to file(s).
+Dictionary (Dct) file prefixes can be optionally removed from all Dct variables during the final source code generation output to file(s). Your responsibility to avoid name clashes.
 
 Main (non-class) Definition variables can be populated using the Global Dct file, and/or AppGen Global Data, and/or be defined in Embed Code.
 
-Main (non-class) Definition variables will appear as Global Data in the Embed Editor.
+Main (non-class) Definition variables will appear as Global Data in the Embed Editor for optional use in all class methods.
 
 Main (non-class) Procedure variables can be populated using a single Dct file in the ```Table Schematic Definition Primary File```, and/or ```Procedure Local Data``` section, and/or be defined in Embed code.
 
@@ -105,7 +105,7 @@ The Dct file called ```AClass_Method``` is used in a Class Method with two overl
 
 ![AppGen Class Method Overloads](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Overload-Methods-Field-Options.jpg)
 
-The unique "Friendly Name" assigned to each Method Overload with the parameters visible. ```Default``` is created automatically when the Class Method AppGen procedure is created and can be changed provided it remains unique to the method overload list. The "Friendly Name" is used in the Dct and Local field options to to optionally limit the property declaration. The Populate Data box lets you choose what data you want to populate in the final class source file(s).
+The unique "Friendly Name" assigned to each Method Overload with the parameters visible. ```Default``` is created automatically when the Class Method AppGen procedure is created and can be changed provided it remains unique to the procedure's method overload list. The "Friendly Name" is used in the Dct and Local field options to optionally limit the property declaration. The Populate Data box lets you choose what data you want to populate in the final class source file(s) regardless of it being specified in the ```Table Schematic Definition``` window or ```Local Data``` section.
 
 ### Realtime Embed and Source Code Spacing
 
