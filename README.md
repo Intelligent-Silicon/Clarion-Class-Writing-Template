@@ -10,7 +10,7 @@ A CLASS must have a Construct and Deconstruct method when using THREAD (Clarion 
 
 A CLASS can have additional methods not used in the IMPLEMENTed INTERFACEs.
 
-A CLASS METHOD can call PROCEDURE's and API's from outside of the CLASS.
+A CLASS METHOD can call (Main) PROCEDURE's and API's from outside of the CLASS.
 
 
 ![AppGen Tree View](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Tree-View.jpg)
