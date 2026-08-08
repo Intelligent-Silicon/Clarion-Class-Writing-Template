@@ -1,2 +1,50 @@
 # Clarion-Class-Writing-Template
 Clarion Class Writing Template
+# OOP Rules
+
+An INTERFACE declares the required CLASS methods, parameters & return values to be IMPLEMENTed.
+
+An INTERFACE can be IMPLEMENTed in one or more CLASSes.
+
+A CLASS can optionally IMPLEMENT one or more INTERFACE's.
+
+A CLASS must have a Construct and Deconstruct method when using THREAD (Clarion 6 versions or later).
+
+A CLASS can have additional methods not used in the IMPLEMENTed INTERFACEs.
+
+A CLASS METHOD can call PROCEDURE's and API's from outside of the CLASS.
+
+
+![AppGen Tree View](http://url/to/img.png)
+
+
+
+
+
+# Clarion Class Writing Template
+
+## AppGen Procedure Naming Schema
+
+AppGen procedure names are not case sensitive. The Template is not case sensitive.
+
+| AppGen Procedure Name | RegEx | Examples |
+|--|--|--|
+| Main Name | ```'^MAIN$'``` | [Main Label], Main |
+| Main Procedure Name | ```'^MAIN[\.][a-zA-Z0-9_]+$'``` | [Main Label].[Procedure Label], Main.My1stProcedureName, Main.My_2nd_ProcedureName |
+| Interface Name | ```'^INTERFACE[\.][a-zA-Z0-9_]+$'``` | Interface.[Interface Label], Interface.MyFirstInterfaceName, INTERFACE.My_Second_IntName |
+| Interface Method Name | ```'^INTERFACE[\.][a-zA-Z0-9_]+[\.][a-zA-Z0-9_]+$'``` | Interface.[Interface Label].[Method Label], Interface.MyFirstInterface.MyIntMethod, INTERFACE.MySecondInt.My_2nd_IntMethod |
+| Class Name | ```'^CLASS[\.][a-zA-Z0-9_]+$'``` | Class.[Class Label], Class.AClassName, Class.Another_Class_Name |
+| Class Method Name | ```'^CLASS[\.][a-zA-Z0-9_]+[\.][a-zA-Z0-9_]+$'``` | Class.[Class Label].[Method Label], Class.AClassName.My1stMethodName, Class.AnotherClassName.My_2nd_ClassMethod |
+| Class Method Construct/Destruct | ```'^CLASS[\.][a-zA-Z0-9_]+[\.]{{CONSTRUCT\|DESTRUCT}$'``` | Class.[Class Label].Construct, Class.AClassName.Construct, Class.AnotherClassName.DESTRUCT |
+
+## Template Rules
+
+The AppGen (First) Procedure called ```MAIN``` is to be used as the parent non class prototype/definition for defining variables outside of a class & non class procedures in the class source files.
+
+
+## Procedure and Method OverLoading
+
+MAIN procedures and Class methods contain the parameter overloading information for building Definitions and Prototypes.
+
+
+
