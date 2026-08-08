@@ -85,3 +85,6 @@ This makes Dct file variables & Local Data variables available to use in the Emb
 
 
 
+![AppGen Data](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Data.jpg)
+
+![Dct Field User Option](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/Dct-Field-User-Option.jpg)
