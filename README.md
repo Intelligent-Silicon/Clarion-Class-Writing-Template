@@ -100,3 +100,9 @@ The Dct file called ```AClass_Method``` is used in a Class Method with two overl
 ![AppGen Class Method Overloads](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Overload-Methods-Field-Options.jpg)
 
 The unique "Friendly Name" assigned to each Method Overload with the parameters visible. ```Default``` is created automatically when the Class Method AppGen procedure is created and can be changed provided it remains unique to the method overload list. The "Friendly Name" is used in the Dct and Local field options to to optionally limit the property declaration. The Populate Data box lets you choose what data you want to populate in the final class source file(s).
+
+### Realtime Embed and Source Code Spacing
+
+![AppGen Realtime Spacing](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Realtime-Embed-Source-Spacing.jpg)
+
+The Template lets you control the spacing of all the code output in realtime WYSYG in the Embed Editor View Source and Source output file(s).
