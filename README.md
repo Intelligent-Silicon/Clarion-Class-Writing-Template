@@ -63,7 +63,7 @@ Non-class procedure prototypes can be written in the ```.INC``` (Module) or ```.
 
 Non-class procedure definitions are written in the ```.CLW``` file.
 
-## Data 
+## Data (Variables & Properties )
 
 Dictionary (Dct) file prefixes can be optionally removed from all Dct variables during the final source code generation output to file(s).
 
