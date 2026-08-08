@@ -84,7 +84,7 @@ For overloaded Main (non-class) Procedures and Class Methods, Field Options can 
 This makes Dct file variables & Local Data variables available to use in the Embed editor for added convenience.
 
 
-### Dct files and Local Data being used to populate a Class Method.
+### Dct files and AppGen Local Data being used to populate a Class Method.
 
 ![AppGen Data](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Data.jpg)
 
@@ -93,3 +93,4 @@ This makes Dct file variables & Local Data variables available to use in the Emb
 
 ![Dct Field User Option](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/Dct-Field-User-Option.jpg)
 
+The Class Method called AClass_Method has two overloads, one called ```Default```, the other called ```Cstring```. ```Default_Outer_Grp``` will only be declared in the overload method called ```Default```
