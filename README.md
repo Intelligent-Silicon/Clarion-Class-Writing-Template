@@ -47,7 +47,7 @@ MAIN procedures, Class methods and Interface methods contain the parameter overl
 
 ## Output files
 
-The code can be written in 1, 2 or 3 files.
+The code can be written out to 1, 2 or 3 files.
 
 All of the below sections can be written in a single source file.
 
@@ -68,9 +68,13 @@ Non-class procedure definitions are written in the ```.CLW``` file.
 Dictionary (Dct) file prefixes can be optionally removed from all Dct variables during the final source code generation output to file(s).
 
 Each Class Definition can use a Dct file, and/or Procedure Local data, be defined in Embed code or all three combinations.
+
 Each Class Method can use a Dct file, and/or Procedure Local data, be defined in Embed code or all three combinations.
+
 Class Definition properties (variables) using a Dct file can be included as Other Files in the Table Schematic Definition for use in the Embed editor.
 
 Global non class procedure variables can use the Global Dct file, AppGen Global Data, be defined in Embed Code or all three combinations.
+
 Each non class procedure can use a Dct file, and/or Procedure Local data, be defined in Embed Code or all three combinations.
+
 Global Non class procedures properties (variables) using a Dct file can be included as Other Files in the Table Schematic Definition for use in the Embed editor.
