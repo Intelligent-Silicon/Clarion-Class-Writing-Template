@@ -25,6 +25,8 @@ Status: Final Testing.
 
 C6 or later.
 
+Wishlist: Import source files into TXA/TXD format for use in the IDE. 
+
 ## AppGen Procedure Naming Schema
 
 AppGen procedure names are not case sensitive. The Template is not case sensitive.
