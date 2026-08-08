@@ -4,9 +4,7 @@
 
 An INTERFACE declares the required CLASS methods, parameters & return values to be IMPLEMENTed.
 
-An INTERFACE can be IMPLEMENTed in one or more CLASSes.
-
-A CLASS can optionally IMPLEMENT one or more INTERFACE's.
+An INTERFACE can optionally be IMPLEMENTed in one or more CLASSes.
 
 A CLASS must have a Construct and Deconstruct method when using THREAD (Clarion 6 versions or later).
 
