@@ -45,4 +45,32 @@ The AppGen (First) Procedure called ```MAIN``` is to be used as the parent non c
 MAIN procedures, Class methods and Interface methods contain the parameter overloading information for building Definitions and Prototypes. Class Construct and Destruct do not overload.
 
 
+## Output files
 
+The code can be written in 1, 2 or 3 files.
+
+All of the below sections can be written in a single source file.
+
+Interface declarations can be written in the ```.INC``` or ```.INT``` file.
+
+Class declarations are written in the ```.INC``` file.
+
+Class Method prototypes are written in the ```.INC``` file.
+
+Class Method definitions are written in the ```.CLW``` file.
+
+Non-class procedure prototypes can be written in the ```.INC``` (Module) or ```.CLW``` (Map) file.
+
+Non-class procedure definitions are written in the ```.CLW``` file.
+
+## Data 
+
+Dictionary (Dct) file prefixes can be optionally removed from all Dct variables during the final source code generation output to file(s).
+
+Each Class Definition can use a Dct file, and/or Procedure Local data, be defined in Embed code or all three combinations.
+Each Class Method can use a Dct file, and/or Procedure Local data, be defined in Embed code or all three combinations.
+Class Definition properties (variables) using a Dct file can be included as Other Files in the Table Schematic Definition for use in the Embed editor.
+
+Global non class procedure variables can use the Global Dct file, AppGen Global Data, be defined in Embed Code or all three combinations.
+Each non class procedure can use a Dct file, and/or Procedure Local data, be defined in Embed Code or all three combinations.
+Global Non class procedures properties (variables) using a Dct file can be included as Other Files in the Table Schematic Definition for use in the Embed editor.
