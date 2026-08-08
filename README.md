@@ -79,12 +79,14 @@ Class Definition & Method Properties can be populated using a single Dct file in
 
 Class Definition properties can be included in the  ```Table Schematic Definition Other Files``` for use in individual class methods.
 
-For overloaded Class Methods, Dct Field Options can be used to limit the Property (variable) declaration to the specified Method Overload(s).
+For overloaded Main (non-class) Procedures and Class Methods, Field Options can be used in the Dct and AppGen Local Data to limit the Variable/Property declaration to the corresponding Procedure/Method Overload(s).
 
 This makes Dct file variables & Local Data variables available to use in the Embed editor for added convenience.
 
 
+Dct files and Local Data being used to populate a Class Method.
 
 ![AppGen Data](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Data.jpg)
 
 ![Dct Field User Option](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/Dct-Field-User-Option.jpg)
+
