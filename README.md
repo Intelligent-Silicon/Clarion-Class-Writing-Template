@@ -37,7 +37,7 @@ AppGen procedure names are not case sensitive. The Template is not case sensitiv
 
 ## Template Rules
 
-The AppGen (First) Procedure called ```MAIN``` is to be used as the parent non class prototype/definition for defining variables outside of a class & non class procedures to be included in the class source file(s).
+The AppGen (First) Procedure called ```MAIN``` is to be used as the parent non-class/interface prototype/definition for defining variables outside of a class & non class procedures to be included in the class source file(s).
 
 
 ## Procedure and Method OverLoading
@@ -51,7 +51,11 @@ The code can be written out to 1, 2 or 3 files.
 
 All of the below sections can be written in a single source file.
 
-Interface declarations can be written in the ```.INC``` or ```.INT``` file.
+Main (non-class/interface) procedure prototypes can be written in the ```.INC``` (Module) or ```.CLW``` (Map) file.
+
+Main (non-class/interface) procedure definitions are written in the ```.CLW``` file.
+
+Interface declarations and Interface Method prototypes can be written in the ```.INC``` or ```.INT``` file.
 
 Class declarations are written in the ```.INC``` file.
 
@@ -59,22 +63,25 @@ Class Method prototypes are written in the ```.INC``` file.
 
 Class Method definitions are written in the ```.CLW``` file.
 
-Non-class procedure prototypes can be written in the ```.INC``` (Module) or ```.CLW``` (Map) file.
 
-Non-class procedure definitions are written in the ```.CLW``` file.
-
-## Data (Variables & Properties )
+## Data (Variables and Properties )
 
 Dictionary (Dct) file prefixes can be optionally removed from all Dct variables during the final source code generation output to file(s).
 
-Each Class Definition can use a Dct file, and/or Procedure Local data, be defined in Embed code or all three combinations.
+Main (non-class) Definition variables can be populated using the Global Dct file, and/or AppGen Global Data, and/or be defined in Embed Code.
 
-Each Class Method can use a Dct file, and/or Procedure Local data, be defined in Embed code or all three combinations.
+Main (non-class) Definition variables will appear as Global Data in the Embed Editor.
 
-Class Definition properties (variables) using a Dct file can be included as Other Files in the Table Schematic Definition for use in the Embed editor.
+Main (non-class) Procedure variables can be populated using a single Dct file in the ```Table Schematic Definition Primary File```, and/or ```Procedure Local Data``` section, and/or be defined in Embed code.
 
-Global non class procedure variables can use the Global Dct file, AppGen Global Data, be defined in Embed Code or all three combinations.
 
-Each non class procedure can use a Dct file, and/or Procedure Local data, be defined in Embed Code or all three combinations.
+Class Definition & Method Properties can be populated using a single Dct file in the ```Table Schematic Definition Primary File```, and/or ```Procedure Local Data``` section, and/or be defined in Embed code.
 
-Global Non class procedures properties (variables) using a Dct file can be included as Other Files in the Table Schematic Definition for use in the Embed editor.
+Class Definition properties can be included in the  ```Table Schematic Definition Other Files``` for use in individual class methods.
+
+For overloaded Class Methods, Dct Field Options can be used to limit the Property (variable) declaration to the specified Method Overload(s).
+
+This makes Dct file variables & Local Data variables available to use in the Embed editor for added convenience.
+
+
+
