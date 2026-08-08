@@ -99,7 +99,7 @@ This makes Dct file variables & Local Data variables available to use in the Emb
 
 ![Dct Field User Option](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/Dct-Field-User-Option.jpg)
 
-The Dct file called ```AClass_Method``` is used in a Class Method with two overloads, one called ```Default```, the other called ```Cstring```. ```Default_Outer_Grp``` will only be declared in the overload method called ```Default```. If no Field option is specified, the variable will be declared in all overloaded methods. The AppGen class method automatically updates the Clarion ini file for use in the Dct editor. 
+The Dct file called ```AClass_Method``` is used in a Class Method with two overloads, one called ```Default```, the other called ```Cstring```. ```Default_Outer_Grp``` will only be declared in the overload method using the unique friendly name ```Default```. If no Field option is specified, the variable will be declared in all overloaded methods. The AppGen class method automatically updates the Clarion ini file for use in the Dct editor. 
 
 ### AppGen Class Method Overloads
 
