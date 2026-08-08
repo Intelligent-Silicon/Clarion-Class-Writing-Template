@@ -1,6 +1,6 @@
-# Clarion-Class-Writing-Template
-Clarion Class Writing Template
-# OOP Rules
+# Clarion Class Writing Template
+
+## OOP Rules
 
 An INTERFACE declares the required CLASS methods, parameters & return values to be IMPLEMENTed.
 
@@ -15,7 +15,7 @@ A CLASS can have additional methods not used in the IMPLEMENTed INTERFACEs.
 A CLASS METHOD can call PROCEDURE's and API's from outside of the CLASS.
 
 
-![AppGen Tree View](http://url/to/img.png)
+![AppGen Tree View](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Tree-View.jpg)
 
 
 
