@@ -114,7 +114,7 @@ The unique "Friendly Name" assigned to each Method Overload with the parameters 
 The Template lets you control the spacing of all the code output in realtime WYSIYG in the Embed Editor View Source and Source output file(s). Make an alignment change here, go to the AppGen procedure method, right mouse click Embed, click View Source and see the alignment changes made to get perfectly laid out code!
 
 
-### Edit Embeds in other procedures
+### Edit Embeds in Context
 
 ![AppGen Embed Editing](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embed-Edit.jpg)
 
