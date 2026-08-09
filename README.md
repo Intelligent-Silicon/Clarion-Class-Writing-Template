@@ -122,3 +122,5 @@ Using the View Source Embed Editor for Main, Class or Interface lets you see eac
 
 ![AppGen Embed Points](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embed-Points.jpg)
 
+![AppGen TreeView Embeds](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embeds-TreeView.jpg)
+
