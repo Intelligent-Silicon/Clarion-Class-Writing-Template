@@ -112,3 +112,13 @@ The unique "Friendly Name" assigned to each Method Overload with the parameters 
 ![AppGen Realtime Spacing](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Realtime-Embed-Source-Spacing.jpg)
 
 The Template lets you control the spacing of all the code output in realtime WYSIYG in the Embed Editor View Source and Source output file(s). Make an alignment change here, go to the AppGen procedure method, right mouse click Embed, click View Source and see the alignment changes made to get perfectly laid out code!
+
+
+### Edit Embeds in other procedures
+
+![AppGen Embed Editing](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embed-Edit.jpg)
+
+Using the View Source Embed Editor for Main, Class or Interface lets you see each section as it will be written out to source. Populate the embeds found in other AppGen procedures from the parent AppGen procedure.
+
+![AppGen Embed Points](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embed-Points.jpg)
+
