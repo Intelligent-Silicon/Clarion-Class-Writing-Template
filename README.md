@@ -114,6 +114,32 @@ The unique "Friendly Name" assigned to each Method Overload with the parameters 
 The Template lets you control the spacing of all the code output in realtime WYSIYG in the Embed Editor View Source and Source output file(s). Make an alignment change here, go to the AppGen procedure method, right mouse click Embed, click View Source and see the alignment changes made to get perfectly laid out code!
 
 
+### Edit All or Selected Overload in Embed Editor
+
+![AppGen Embed Select Single](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embed-Select-SingleOverload.jpg)
+
+Tick Show All Overloads in Embeds checkbox or select a single Overload to work in the Embed Editor. Drop Width is variable, but requires Procedure Property to be reloaded for new width to take effect
+
+![AppGen Embed Select Single](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embed-DropWidth-300.jpg)
+
+Drop Width = 300 (minimum)
+
+![AppGen Embed Select Single](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embed-DropWidth-980.jpg)
+
+Drop Width = 980 (maximum)
+
+![AppGen Embed Select Single](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embed-Single-Overload-pAnother.jpg)
+
+Single selected Overload - pAnother
+
+![AppGen Embed Select Single](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embed-Single-Overload-pDefault.jpg)
+
+Single selected Overload - pDefault
+
+![AppGen Embed Select Single](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embed-Single-Overload-ShowAll.jpg)
+
+Show All Overloads in Embeds.
+
 ### Edit Embeds in Context
 
 ![AppGen Embed Editing](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embed-Edit.jpg)
