@@ -122,7 +122,7 @@ Tick Show All Overloads in Embeds checkbox or select a single Overload to work i
 
 Applies to Main (non-class) Overloaded procedures (which shows procedure overloading can be handled by the AppGen in general and could be handled by the Clarion and ABC templates with some modification), Class Overloaded Methods and Interface Overloaded Methods.
 
-Drop Width is variable, but requires Procedure Property to be reloaded for new width to take effect
+Drop Width is variable, but requires Procedure Property to be reloaded for new width to take effect. LEss important in C7+ wide windows.
 
 ![AppGen Embed Select Single](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embed-DropWidth-300.jpg)
 
