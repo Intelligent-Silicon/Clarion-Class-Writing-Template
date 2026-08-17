@@ -118,7 +118,11 @@ The Template lets you control the spacing of all the code output in realtime WYS
 
 ![AppGen Embed Select Single](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embed-Select-SingleOverload.jpg)
 
-Tick Show All Overloads in Embeds checkbox or select a single Overload to work in the Embed Editor. Drop Width is variable, but requires Procedure Property to be reloaded for new width to take effect
+Tick Show All Overloads in Embeds checkbox or select a single Overload to work in the Embed Editor. 
+
+Applies to Main (non-class) Overloaded procedures, Class Overloaded Methods and Interface Overloaded Methods.
+
+Drop Width is variable, but requires Procedure Property to be reloaded for new width to take effect
 
 ![AppGen Embed Select Single](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embed-DropWidth-300.jpg)
 
