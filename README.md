@@ -120,7 +120,7 @@ The Template lets you control the spacing of all the code output in realtime WYS
 
 Tick Show All Overloads in Embeds checkbox or select a single Overload to work in the Embed Editor. 
 
-Applies to Main (non-class) Overloaded procedures (which shows procedure overloading can be handled by the AppGen in general), Class Overloaded Methods and Interface Overloaded Methods.
+Applies to Main (non-class) Overloaded procedures (which shows procedure overloading can be handled by the AppGen in general and could be by the Clarion and ABC templates), Class Overloaded Methods and Interface Overloaded Methods.
 
 Drop Width is variable, but requires Procedure Property to be reloaded for new width to take effect
 
