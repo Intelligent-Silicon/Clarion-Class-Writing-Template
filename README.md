@@ -31,6 +31,8 @@ Wishlist: Import class source files (```.INT```, ```.INC```, ```.CLW```) into TX
 
 One Class, nearly 10% of the total number of the lines of code written for all the default shipped Clarion templates.
 
+Class Compiler rules, ported to the template, to reduce compiler errors, reducing time spent chasing sometimes cryptic compiler messages.
+
 ## AppGen Procedure Naming Schema
 
 AppGen procedure names are not case sensitive. The Template is not case sensitive.
