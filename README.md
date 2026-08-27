@@ -29,7 +29,7 @@ Wishlist: Import class source files (```.INT```, ```.INC```, ```.CLW```) into TX
 
 ![Template Size](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/Template-ClassWriter.jpg)
 
-One Class, nearly 10% of the total number of the lines of code written for all the default shipped Clarion templates.
+One template, accounting for nearly 10% of the total number of lines of code written for all the default shipped Clarion templates.
 
 Class Compiler rules, ported to the template, to reduce compiler errors, reducing time spent chasing sometimes cryptic compiler messages.
 
