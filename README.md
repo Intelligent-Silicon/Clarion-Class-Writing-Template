@@ -31,7 +31,7 @@ Wishlist: Import class source files (```.INT```, ```.INC```, ```.CLW```) into TX
 
 One template, accounting for nearly 10% of the total number of lines of code written for all the default shipped Clarion templates.
 
-Class Compiler rules ported to the template, to reduce compiler errors, reducing time spent chasing sometimes cryptic compiler messages.
+Compiler Class rules ported to the template, to reduce compiler errors, reducing time spent chasing sometimes cryptic compiler messages.
 
 Enabling first attempt correct code.
 
