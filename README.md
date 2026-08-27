@@ -27,6 +27,10 @@ C6 or later.
 
 Wishlist: Import class source files (```.INT```, ```.INC```, ```.CLW```) into TXA/TXD format for use in the IDE. 
 
+![Template Size](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/Template-ClassWriter.jpg)
+
+One Class, nearly 10% of the total number of the lines of code written for all the default shipped Clarion templates.
+
 ## AppGen Procedure Naming Schema
 
 AppGen procedure names are not case sensitive. The Template is not case sensitive.
@@ -140,4 +144,6 @@ Using the View Source Embed Editor for Main, Class or Interface lets you see eac
 ![AppGen Embed Points](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embed-Points.jpg)
 
 ![AppGen TreeView Embeds](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embeds-TreeView.jpg)
+
+
 
