@@ -157,4 +157,13 @@ Using the View Source Embed Editor for Main, Class or Interface lets you see eac
 ![AppGen TreeView Embeds](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Embeds-TreeView.jpg)
 
 
+### Automatic Procedure Linking 
+
+![AppGen AutoLink](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-AutomaticLinking.jpg)
+
+![AppGen AutoLink2 ](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-AutomaticLinking2.jpg)
+
+Automatic linking by Procedure Name. Parent Procedures, Main, Class & Interface automatically link in and auto populate all matching name child procedures, to maintain the tree structure in the AppGen. 
+
+
 
