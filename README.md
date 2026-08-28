@@ -119,7 +119,8 @@ The "Unique Name" assigned to each Method Overload with the parameters visible. 
 
 ![AppGen Realtime Spacing](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Realtime-Embed-Source-Spacing.jpg)
 
-![AppGen Realtime Template Spacing](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Realtime-Template-Spacing.jpg)
+![AppGen Realtime Template 0 Spacing](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Realtime-Template-Spacing.jpg)
+![AppGen Realtime Template 3 Spacing](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Realtime-Template-Spacing3.jpg)
 
 The Template lets you control the spacing (0-3 spaces) of all the code output in realtime WYSIWYG in the Embed Editor View Source and Source output file(s). Make an alignment change here, go to any AppGen procedure, right mouse click Embed, click View Source and see the alignment changes made to get perfectly laid out code!
 
