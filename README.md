@@ -168,4 +168,10 @@ Automatic linking by Procedure Name. Parent Procedures (Main, Class & Interface)
 No need to use the Procedure Properties Procedure button.
 
 
+### Future Proof Data Types
 
+![AppGen Data Types](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-DataTypes.jpg)
+
+Data Types automatically populated, with support to add new datatypes in the future.
+
+Template written so only minimal changes needed for writing classes in other programming languages which support objects.
