@@ -159,7 +159,7 @@ Using the View Source Embed Editor for Main, Class or Interface lets you see eac
 
 ### Automatic Procedure Linking 
 
-![AppGen AutoLink](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-AutomaticLinking.jpg)
+![AppGen AutoLink](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-AutomaticLinking1.jpg)
 
 ![AppGen AutoLink2 ](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-AutomaticLinking2.jpg)
 
