@@ -113,7 +113,7 @@ The Dct file called ```AClass_Method``` is used in a Class Method with two overl
 
 ![AppGen Class Method Overloads](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Overload-Methods-Field-Options.jpg)
 
-The "Unique Name" assigned to each Method Overload with the parameters visible. ```Default``` is created automatically when the Class Method AppGen procedure is created and can be changed provided it remains unique to the procedure's method overload list. The "Friendly Name" is used in the Dct and Local field options to optionally limit the property declaration. The Populate Data box lets you choose what data you want to populate in the final class source file(s) regardless of it being specified in the ```Table Schematic Definition``` window or ```Local Data``` section.
+The "Unique Name" assigned to each Method Overload with the parameters visible. ```Default``` is created automatically when the Class Method AppGen procedure is created and can be changed provided it remains unique to the procedure's method overload list. The "Unique Name" is used in the Dct and Local field options to optionally limit the property declaration. The Populate Data box lets you choose what data you want to populate in the final class source file(s) regardless of it being specified in the ```Table Schematic Definition``` window or ```Local Data``` section.
 
 ### Realtime Embed and Source Code Spacing
 
