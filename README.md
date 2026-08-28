@@ -35,6 +35,8 @@ Compiler Class rules ported to the template, to reduce compiler errors, reducing
 
 Enabling first attempt correct code.
 
+Built using Template Builder, a template that builds templates inside the AppGen. (still in active development)
+
 ## AppGen Procedure Naming Schema
 
 AppGen procedure names are not case sensitive. The Template is not case sensitive.
