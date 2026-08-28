@@ -179,5 +179,5 @@ Template written so only minimal changes needed for writing classes in other pro
 ![AppGen Parameter Data Types](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Parameter-DataTypes.jpg)
 ![AppGen Parameter Data Types](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-ReturnValue-DataTypes.jpg)
 
-Data Types control Parameter & Return Value options.
+Data Types control some Parameter & Return Value options.
 
