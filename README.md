@@ -175,3 +175,9 @@ No need to use the Procedure Properties Procedure button.
 Data Types automatically populated, with support to add new datatypes in the future.
 
 Template written so only minimal changes needed for writing classes in other programming languages which support objects.
+
+![AppGen Parameter Data Types](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Parameter-DataTypes.jpg)
+![AppGen Parameter Data Types](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-ReturnValue-DataTypes.jpg)
+
+Data Types control Parameter & Return Value options.
+
