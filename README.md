@@ -165,5 +165,7 @@ Using the View Source Embed Editor for Main, Class or Interface lets you see eac
 
 Automatic linking by Procedure Name. Parent Procedures, Main, Class & Interface automatically link in and auto populate all matching name child procedures, to maintain the tree structure in the AppGen. 
 
+No need to use the Procedure Properties Procedure button.
+
 
 
