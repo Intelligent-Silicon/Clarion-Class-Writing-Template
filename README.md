@@ -134,6 +134,8 @@ Select Method/Procedure Overloads to appear in the Embed Editor.
 
 ![AppGen Overload Embed Editor](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Overload-EmbedEditor.jpg)
 
+![AppGen Overload View Source](https://github.com/Intelligent-Silicon/Clarion-Class-Writing-Template/blob/main/Pics/AppGen-Overload-ViewSource.jpg)
+
 Selected Method/Procedure Overloads appear in required sort order in Embed Editor and View Source window.
 
 This makes it quicker and easier to edit one or more Overloads, taking code snippets from one or more previously declared and coded Overloads where necessary.
